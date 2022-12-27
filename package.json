@@ -45,6 +45,7 @@
     ]
   },
   "devDependencies": {
-    "chokidar": "^3.5.1"
+    "chokidar": "^3.5.1",
+    "gh-pages": "^4.0.0"
   }
 }
