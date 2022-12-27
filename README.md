@@ -1,1 +1,0 @@
-Hi there! This is the source code for my personal website, ziyuez.com. Please feel free to check it out!
