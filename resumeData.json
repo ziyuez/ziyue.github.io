@@ -118,76 +118,46 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"ScreenX",
+        "category":"A cross-screen collaboration app made to integrate with Microsoft Teams.",
+        "image":"screenx.jpg",
+        "url":"https://github.com/ziyuez/ScreenX"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"MassSpec Pen (Original Site)",
+        "category":"Website for innovative cancer-detecting pen",
+        "image":"mspen.jpg",
+        "url":"https://mspentechnologies.com/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Fend",
+        "category":"Senior design project -- backpack security device with iOS App",
+        "image":"fend.jpg",
+        "url":"https://github.com/katelynge/Fend"
       },
       {
         "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "category":"A React based resume website",
+        "image":"resumesite.jpg",
+        "url":"https://github.com/ziyuez/ziyue.github.io"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Innobond Technologies",
+        "category":"Website for a Chinese materials engineering startup",
+        "image":"innobond.jpg",
+        "url":""
       },
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Merge Mobile (for Microsoft Shuttles)",
+        "category":"Mobile app for shuttle booking on Microsoft Campus",
+        "image":"merge.jpg",
+        "url":""
+      },
+      {
+        "title":"A$AP",
+        "category":"Andriod App for student budgeting",
+        "image":"asap.jpg",
+        "url":"https://github.com/emily-tran-36/asap"
       }
     ]
   }
