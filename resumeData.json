@@ -9,6 +9,7 @@
     "bio":"I'm passionate about building beautiful products that users need -- whether that's by running A/B tests as part of a new feature launch or whipping up a new React Component from scratch. I'm working to make the world a more empathetic and connected place.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "ziyuejzh@gmail.com",
+    "mailto":"mailto:ziyuejzh@gmail.com",
     "phone": "(210) 831-9736",
     "github":"https://github.com/ziyuez",
     "resume":"https://drive.google.com/file/d/1QeLXLkt39XUVcvkDJXP2XweuYaCIzrPR/view?usp=sharing",
@@ -22,28 +23,13 @@
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/zhangziyue/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/ziyuez/",
         "className":"fa fa-github"
       }
     ]
