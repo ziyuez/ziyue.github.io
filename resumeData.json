@@ -63,25 +63,25 @@
         "company":"Scale AI",
         "title":"Lead Product Manager, Growth",
         "years":"January 2022 - October 2022",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Led areas of user acquisition and retention, platform support, international expansion, and external partner management. Proposed and executed data-driven strategy changes to improve user sentiment while cutting costs and managed a team of direct reports spanning functions across global operaitons, marketing, and program management."
       },
       {
         "company":"Scale AI",
         "title":"Technical PM, Customer Operations",
         "years":"April 2021 - January 2022",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Developed features for a key pipeline and provided customer confidence to sign several multi-year contracts with Scale."
       },
       {
         "company":"Microsoft",
         "title":"Product Manager, SAP on Azure",
         "years":"November 2019 - April 2021",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Shipped key security features and support capabilities to increase adoption rates of the Azure Backup for SAP product for Azure customers."
       },
       {
         "company":"Microsoft",
         "title":"Software Engineer, M365 Security & Compliance",
         "years":"August 2018 - November 2019",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Developed the Microsoft365 Security & Compliance Common Controls, a suite of React components to improve UI consistency across all M365 S+C products. Completed UI components were integrated across 30% of the S+C platform within one month of release."
       }
     ],
     "internships":[
@@ -89,13 +89,13 @@
         "company":"Microsoft",
         "title":"Software Engineering Intern, O365 Security & Compliance",
         "years":"May 2017 - August 2017",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Developed a method to seamlessly integrate complex React components into the existing Office 365 Security & Compliance portal written in AngularJS and TypeScript."
       },
       {
         "company":"Yahoo!",
         "title":"Software Engineering Intern, Flickr",
         "years":"May 2016 - August 2016",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Re-implemented the Flickr Production Engineering team's internal metrics monitoring dashboard using React to improve visualization, permit customization, and introducing standalone user alerts."
       }
     ],
     "skills":[
