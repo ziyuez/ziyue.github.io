@@ -1,4 +1,4 @@
-# [Ziyue's Resume Website](ziyuez.com)
+# [Ziyue's Resume Website](https://ziyuez.com)
 
 ## Acknowledgments
 
