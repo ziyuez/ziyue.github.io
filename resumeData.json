@@ -12,6 +12,7 @@
     "mailto":"mailto:ziyuejzh@gmail.com",
     "phone": "(210) 831-9736",
     "github":"https://github.com/ziyuez",
+    "project": "https://yuekelele.github.io/creatortools/",
     "resume":"https://drive.google.com/file/d/1QeLXLkt39XUVcvkDJXP2XweuYaCIzrPR/view?usp=sharing",
     "address":{
       "street":"(Your Street)",
@@ -117,6 +118,12 @@
   },
   "portfolio":{
     "projects": [
+      {
+        "title":"Creator Tools",
+        "category":"A customizable media kit generator for influencers.",
+        "image":"creatortools.jpg",
+        "url":"https://yuekelele.github.io/creatortools/"
+      },
       {
         "title":"ScreenX",
         "category":"A cross-screen collaboration app made to integrate with Microsoft Teams.",
