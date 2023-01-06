@@ -13,15 +13,13 @@
     "phone": "(210) 831-9736",
     "github":"https://github.com/ziyuez",
     "project": "https://yuekelele.github.io/creatortools/",
-    "resume":"https://drive.google.com/file/d/1QeLXLkt39XUVcvkDJXP2XweuYaCIzrPR/view?usp=sharing",
+    "resume":"https://drive.google.com/file/d/1gcpWk408nbY0bt9yLPm6iFZE4DkhwYfn/view?usp=sharing",
     "address":{
       "street":"(Your Street)",
       "city":"(Your City)",
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"linkedin",
@@ -76,7 +74,7 @@
         "company":"Microsoft",
         "title":"Software Engineering Intern, O365 Security & Compliance",
         "years":"May 2017 - August 2017",
-        "description":"Developed a method to seamlessly integrate complex React components into the existing Office 365 Security & Compliance portal written in AngularJS and TypeScript."
+        "description":"Proposed and developed the first integrative React components to work seamlessly with the Office 365 Angular web portal to allow the Security and Compliance team to slowly transition the codebase from Angular to React"
       },
       {
         "company":"Yahoo!",
