@@ -51,7 +51,7 @@ body { background: #220b35; }
    position: absolute;
    bottom: 0px;
  }
-
+   
  @keyframes animate {
    0%{
        transform: translateY(0) rotate(0deg);
@@ -433,9 +433,12 @@ ul#nav li.current a { color: #fbc6fa; }
 #about a:hover, #about a:focus { color: #0762f9; }
 
 #about h2 {
-   font: 22px/30px 'opensans-bold', sans-serif;
+   font: 25px/2.5em 'librebaskerville-regular', serif;
    color: #fff;
-   margin-bottom: 12px;
+}
+
+#about h3 {
+   color: #f9e1f8;
 }
 #about p {
    line-height: 30px;
@@ -584,6 +587,8 @@ ul#nav li.current a { color: #fbc6fa; }
    position: relative;
 	top: -36px;
 }
+
+ 
 .bar-expand {
    position: absolute;
    left: 0;
