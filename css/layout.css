@@ -40,6 +40,7 @@ body { background: #220b35; }
 
 .wave-container-header {
    position: relative;
+   height: 85vh;
    background: transparent;
    color: #FFF;
    text-align: center;
@@ -257,10 +258,8 @@ body { background: #220b35; }
 
 header {
    position: relative;
-   height: 700px;
-   min-height: 500px;
+   height: 80vh;
    width: 100%;
-   
    text-align: center;
    overflow: hidden;
    background-color: transparent;
@@ -275,8 +274,8 @@ header:before {
 }
 header .banner {
    display: inline-block;
-   vertical-align: middle;
-   margin: 0 auto;
+   vertical-align: top;
+   margin: 20vh auto;
    width: 85%;
    padding-bottom: 30px;
    text-align: center;
