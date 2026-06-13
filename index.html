@@ -1,1 +1,166 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name="theme-color" content="#000000"><link rel="manifest" href="./manifest.json"><link rel="shortcut icon" href="./favicon.ico"><link rel="stylesheet" href="./css/default.css"><link rel="stylesheet" href="./css/layout.css"><link rel="stylesheet" href="./css/media-queries.css"><link rel="stylesheet" href="./css/magnific-popup.css"><title>Ziyue Zhang</title><script defer="defer" src="/static/js/main.ff5d7d70.js"></script><link href="/static/css/main.31d6cfe0.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script><script>window.jQuery||document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script><script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script><script src="js/jquery.flexslider.js"></script><script src="js/waypoints.js"></script><script src="js/jquery.fittext.js"></script><script src="js/magnific-popup.js"></script><script src="js/init.js"></script></body></html>
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta name="theme-color" content="#7a6a99" />
+  <meta name="description"
+    content="Ziyue (JJ) Zhang — Senior Product Manager and former software engineer building AI/data platforms, developer APIs, and the systems other teams build on." />
+  <meta name="author" content="Ziyue Zhang" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Ziyue Zhang — Product Manager" />
+  <meta property="og:description"
+    content="Senior Product Manager and former software engineer building AI/data platforms, developer APIs, and the systems other teams build on." />
+
+  <link rel="manifest" href="./manifest.json" />
+  <link rel="shortcut icon" href="./favicon.ico" />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,18..72,400;0,18..72,500;1,18..72,400&display=swap"
+    rel="stylesheet" />
+
+  <link rel="stylesheet" href="./css/styles.css" />
+  <title>Ziyue Zhang — Product Manager</title>
+</head>
+
+<body>
+  <!-- Preloader -->
+  <div class="preloader" id="preloader" aria-hidden="true">
+    <div class="preloader__mark">
+      <svg viewBox="0 0 100 100" width="64" height="64" role="img" aria-label="Loading">
+        <circle class="preloader__ring" cx="50" cy="50" r="40" fill="none" stroke-width="3" />
+        <text class="preloader__initials" x="50" y="50" text-anchor="middle" dominant-baseline="central">JJ</text>
+      </svg>
+    </div>
+  </div>
+
+  <!-- Scroll progress -->
+  <div class="scroll-progress" id="scrollProgress" aria-hidden="true"></div>
+
+  <!-- Nav -->
+  <header class="nav" id="nav">
+    <div class="nav__inner">
+      <a href="#top" class="nav__brand">Ziyue&nbsp;Zhang</a>
+      <nav class="nav__links" aria-label="Primary">
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top">
+    <!-- Hero -->
+    <section class="hero" id="hero">
+      <canvas class="hero__canvas" id="heroCanvas" aria-hidden="true"></canvas>
+      <div class="hero__glow" aria-hidden="true"></div>
+      <div class="hero__content">
+        <p class="hero__eyebrow reveal">Senior Product Manager · former Software Engineer</p>
+        <h1 class="hero__title reveal">
+          I build the platforms<br />
+          <span class="hero__title-accent">other teams build on.</span>
+        </h1>
+        <p class="hero__lede reveal">
+          I&rsquo;m <strong>Ziyue Zhang</strong> &mdash; call me <em>JJ</em>. I turn ambiguous,
+          one-off needs into extensible systems &mdash; and I still ship the code behind them:
+          end-to-end automation that retires brittle manual work, the data pipelines my team
+          debugs on, and the delightful customer-facing frontends that keep users coming back.
+        </p>
+        <div class="hero__actions reveal">
+          <a class="btn btn--primary" href="#contact">Get in touch</a>
+          <a class="btn btn--ghost"
+            href="https://drive.google.com/file/d/1pkJe7hoL43ZHvBm0EJ22Jf9RcLUAepoW/view?usp=sharing"
+            target="_blank" rel="noopener">Résumé</a>
+        </div>
+      </div>
+      <a href="#about" class="hero__scroll" aria-label="Scroll to content">
+        <svg class="hero__chev" width="30" height="14" viewBox="0 0 30 14" aria-hidden="true">
+          <polyline points="3,3 15,11 27,3" />
+        </svg>
+        <svg class="hero__chev hero__chev--2" width="30" height="14" viewBox="0 0 30 14" aria-hidden="true">
+          <polyline points="3,3 15,11 27,3" />
+        </svg>
+      </a>
+    </section>
+
+    <!-- About -->
+    <section class="section" id="about">
+      <div class="section__head reveal">
+        <h2 class="section__title">About</h2>
+      </div>
+      <div class="about reveal">
+        <p class="about__lead">
+          Senior Product Manager and former software engineer with 6+ years building AI/data
+          platforms, developer-facing APIs, and resilient infrastructure.
+        </p>
+        <p>
+          I&rsquo;m known for systems-level thinking &mdash; creating extensible foundations other
+          teams build on &mdash; and for translating fluidly between researchers, engineers, and
+          executives. I&rsquo;ve done this at <strong>Capital One</strong>, <strong>Hopper</strong>,
+          <strong>Scale AI</strong>, and <strong>Microsoft</strong>: re-architecting infrastructure,
+          shipping ML into production, and turning ambiguous, one-off needs into platforms other teams
+          rely on.
+        </p>
+        <p>
+          I care about the craft of the build as much as the outcome &mdash; and I stay hands-on,
+          using Claude daily to accelerate product, analytics, and engineering work.
+        </p>
+      </div>
+
+      <dl class="stats reveal">
+        <div class="stat">
+          <dt class="stat__num">$4M+</dt>
+          <dd class="stat__label">incremental monthly LTV unlocked from a referral program built from scratch</dd>
+        </div>
+        <div class="stat">
+          <dt class="stat__num">40% &rarr; 0%</dt>
+          <dd class="stat__label">payout defect rate after re-architecting incentive infrastructure &mdash; held at zero for 1.5+ years and counting</dd>
+        </div>
+        <div class="stat">
+          <dt class="stat__num">75% &rarr; 96%</dt>
+          <dd class="stat__label">AI training-data labeling accuracy from a supervised-ML feature I shipped</dd>
+        </div>
+        <div class="stat">
+          <dt class="stat__num">25M+</dt>
+          <dd class="stat__label">users reached by one integration pattern that became a standard for new channels</dd>
+        </div>
+      </dl>
+
+      <p class="about__footnote reveal">
+        Earlier: B.S. in Electrical &amp; Computer Engineering (Honors) from UT Austin.
+        The full history lives on <a href="https://www.linkedin.com/in/zhangziyue/" target="_blank"
+          rel="noopener">LinkedIn</a>.
+      </p>
+    </section>
+
+    <!-- Contact -->
+    <section class="section section--contact" id="contact">
+      <div class="contact reveal">
+        <p class="contact__eyebrow">Let&rsquo;s talk</p>
+        <h2 class="contact__title">So, what are you building?</h2>
+        <p class="contact__lede">
+          I&rsquo;m always glad to trade notes on product, platforms, and applied AI.
+        </p>
+        <div class="contact__links">
+          <a class="btn btn--primary" href="mailto:ziyuejzh@gmail.com">ziyuejzh@gmail.com</a>
+          <a class="btn btn--ghost" href="https://www.linkedin.com/in/zhangziyue/" target="_blank"
+            rel="noopener">LinkedIn</a>
+          <a class="btn btn--ghost" href="https://github.com/ziyuez" target="_blank" rel="noopener">GitHub</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>&copy; <span id="year"></span> Ziyue Zhang &middot; Built from scratch with HTML, CSS &amp; JavaScript</p>
+  </footer>
+
+  <script src="./js/main.js" defer></script>
+</body>
+
+</html>
