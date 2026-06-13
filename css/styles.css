@@ -126,14 +126,8 @@ em { font-style: italic; }
   padding: 1.1rem var(--pad);
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-end;
   gap: 1rem;
-}
-.nav__brand {
-  font-family: var(--font-serif);
-  font-size: 1.15rem;
-  font-weight: 500;
-  letter-spacing: 0.01em;
 }
 .nav__links { display: flex; gap: clamp(1rem, 3vw, 2.25rem); }
 .nav__links a {
@@ -184,6 +178,15 @@ em { font-style: italic; }
   border-color: var(--border);
 }
 .btn--ghost:hover { border-color: var(--accent); color: var(--accent); }
+.btn--soft {
+  background: var(--accent-soft);
+  color: var(--accent-deep);
+  border-color: color-mix(in srgb, var(--accent) 38%, transparent);
+}
+.btn--soft:hover {
+  background: color-mix(in srgb, var(--accent) 16%, var(--surface));
+  border-color: var(--accent);
+}
 @media (prefers-color-scheme: dark) { .btn--primary { color: #14121a; } }
 
 /* ---------- Hero ---------- */

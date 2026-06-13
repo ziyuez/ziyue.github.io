@@ -14,8 +14,8 @@
   const preloader = document.getElementById("preloader");
   function hidePreloader() {
     if (!preloader) return;
-    // brief hold so the loading mark reads as intentional, not a flash
-    setTimeout(() => preloader.classList.add("is-done"), 450);
+    // hold so the loading mark reads as intentional, not a flash
+    setTimeout(() => preloader.classList.add("is-done"), 1300);
   }
   window.addEventListener("load", hidePreloader);
   // safety net in case 'load' already fired or stalls
