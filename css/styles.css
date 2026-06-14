@@ -86,7 +86,7 @@ em { font-style: italic; }
 .preloader__initials {
   font-family: var(--font-serif);
   font-size: 30px;
-  font-style: italic;
+  font-weight: 600;
   fill: var(--accent-deep);
 }
 @keyframes ringSpin { to { transform: rotate(360deg); } }

@@ -1,14 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="JJ">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="ZZ">
   <defs>
-    <mask id="jjcut">
-      <circle cx="50" cy="50" r="50" fill="#fff"/>
-      <text x="38" y="44" text-anchor="middle" dominant-baseline="central"
-        font-family="Georgia, 'Times New Roman', serif" font-style="italic"
-        font-weight="500" font-size="82" fill="#000">J</text>
-      <text x="62" y="58" text-anchor="middle" dominant-baseline="central"
-        font-family="Georgia, 'Times New Roman', serif" font-style="italic"
-        font-weight="500" font-size="82" fill="#000">J</text>
+    <mask id="zzcut">
+      <circle cx="50" cy="50" r="46" fill="#fff"/>
+      <text x="34" y="50" text-anchor="middle" dominant-baseline="central"
+        font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="46" fill="#000">Z</text>
+      <text x="66" y="50" text-anchor="middle" dominant-baseline="central"
+        font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="46" fill="#000">Z</text>
     </mask>
   </defs>
-  <circle cx="50" cy="50" r="50" fill="#6d5f88" mask="url(#jjcut)"/>
+  <circle cx="50" cy="50" r="50" fill="#ffffff"/>
+  <circle cx="50" cy="50" r="46" fill="#6d5f88" mask="url(#zzcut)"/>
 </svg>
